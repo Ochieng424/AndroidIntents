@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AndroidIntent</string>
+    <string name="visit_website">VISIT WEBSITE</string>
+    <string name="opening_location_in_a_map">Opening location in a map</string>
+    <string name="share_text">Share text</string>
+</resources>
